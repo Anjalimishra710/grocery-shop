@@ -58,21 +58,21 @@ const Footer = () => {
                 <i>
                   <MdPhoneForwarded />
                 </i>
-                +91 7350403908
+                +91 8080687629
               </Link>
 
               <a href="mailto:khamkarpradip20@gmail.com" className="links">
                 <i>
                   <MdOutlineMarkEmailRead />
                 </i>
-                khamkarpradip20@gmail.com
+                anjalimishra1583@gmail.com
               </a>
 
               <Link className="links">
                 <i>
                   <RiMapPin2Line />
                 </i>
-                Pune , India -413728
+                Wanawadi(Pune),India - 411040
               </Link>
             </div>
 
@@ -126,7 +126,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="credit">
-            Created By <span>Pradip Khamkar </span> | All Right Reserved
+            Created By <span>Anjali Mishra</span> | All Right Reserved
           </div>
         </section>
       </footer>
